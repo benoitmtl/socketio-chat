@@ -1,0 +1,23 @@
+{
+  "name": "socketio-chat",
+  "version": "1.0.0",
+  "description": "simple socketio chat",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benoitmtl/socketio-chat.git"
+  },
+  "author": "bencactus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benoitmtl/socketio-chat/issues"
+  },
+  "homepage": "https://github.com/benoitmtl/socketio-chat#readme",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  }
+}
